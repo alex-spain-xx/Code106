@@ -1,0 +1,14 @@
+﻿Id,firstName,lastName,salary,managerId
+1,Chris,Ceo,108000,
+100,Olivia,OkMgrOne,60000,1
+101,Nina,DevA,50000,100
+102,Evan,DevB,50000,100
+200,Laura,LowMgr,52000,1
+201,Devon,DevOne,50000,200
+202,Dana,DevTwo,50000,200
+300,Grace,HighMgr,90000,1
+301,Sam,StaffOne,50000,300
+302,Shawn,StaffTwo,50000,300
+400,Mark,OkMgrTwo,90000,1
+401,Alex,AnalystOne,60000,400
+402,Avery,AnalystTwo,60000,400
